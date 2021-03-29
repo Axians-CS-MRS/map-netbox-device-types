@@ -1,0 +1,9 @@
+manufacturer: Generic
+model: IP_TO_PING
+part_number: IP_TO_PING
+slug: ip_to_ping
+u_height: 1
+is_full_depth: false
+interfaces:
+  - name: Port1
+    type: 1000base-t
