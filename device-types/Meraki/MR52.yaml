@@ -1,0 +1,13 @@
+manufacturer: Meraki
+model: MR52
+part_number: MR52
+slug: mr52
+u_height: 1
+is_full_depth: false
+power_ports:
+  - name: PS-1
+interfaces:
+  - name: Port1
+    type: 1000base-t
+  - name: Port2
+    type: 1000base-t

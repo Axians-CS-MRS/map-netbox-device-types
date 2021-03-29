@@ -1,0 +1,32 @@
+manufacturer: Meraki
+model: MX84
+part_number: MX84
+slug: mx84
+u_height: 1
+is_full_depth: false
+power_ports:
+  - name: PS-1
+interfaces:
+  - name: Port1
+    type: 1000base-t
+  - name: Port2
+    type: 1000base-t
+  - name: Port3
+    type: 1000base-t
+  - name: Port4
+    type: 1000base-t
+  - name: Port5
+    type: 1000base-t
+  - name: Port6
+    type: 1000base-t
+  - name: Port7
+    type: 1000base-t
+  - name: Port8
+    type: 1000base-t
+  - name: Port9
+    type: 1000base-x-sfp
+  - name: Port10
+    type: 1000base-x-sfp
+  - name: Management
+    type: 1000base-t
+    mgmt_only: true
